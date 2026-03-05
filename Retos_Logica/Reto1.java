@@ -10,15 +10,23 @@ package Retos_Logica;
 
 public class Reto1 {
     public static void main(String[] args) {
-        for (int i = 1; i <= 100; i++) {
-            if (i % 3 == 0 && i % 5 == 0) {
-                System.out.println("fizzbuzz");
-            } else if (i % 3 == 0) {
-                System.out.println("fizz");
-            } else if (i % 5 == 0) {
-                System.out.println("buzz");
+        
+        for (int index = 1; index <= 100; index++) {
+
+            boolean multiploDeTres = index % 3 == 0;
+            boolean multiploDeCinco = index % 5 == 0;
+            // Podria haber simplificado más los nombres
+            // no hacia falta cambiar la variable a index, con i ya bastaba
+            // cuando se pone en la condición un booleano, si lo pongo solo es como decir que cuando ese booleano sea true
+
+            if (multiploDeTres && multiploDeCinco) {
+                System.out.println("fizzbuzz: " + index);
+            } else if (multiploDeTres) {
+                System.out.println("fizz: " + index);
+            } else if (multiploDeCinco) {
+                System.out.println("buzz: " + index);
             } else {
-                System.out.println(i);
+                System.out.println(index);
             }
         }
     }
