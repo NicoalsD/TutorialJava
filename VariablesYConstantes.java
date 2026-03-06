@@ -26,7 +26,7 @@ public class VariablesYConstantes {
         System.out.println("Tu edad es: " + age);
         
 
-        var variable = "el tipo de dato se infiere segun lo que esté guardado en la variable"; // String
+        var variable = "variable"; // String
         var año = 2025; //int
         // Constantes
         
