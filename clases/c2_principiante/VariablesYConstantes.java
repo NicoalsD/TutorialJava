@@ -1,3 +1,4 @@
+package clases.c2_principiante;
 /*
 Aqui voy a aprender Java durisimo
 Cursito de 8 horas de mouredev. https://www.youtube.com/watch?v=JOAqpdM36wI&list=PLNdFk2_brsRen1cN3cndq-WUZDAztFrFy
@@ -31,7 +32,7 @@ public class VariablesYConstantes {
         // Constantes
         
         final String EMAIL = "nicolas@gmail.com";
-        // email = "alejandro@gmail.com"; ya no es posible porque con el final la variable se vuelve constante. Una buena practica es poner todas las constantes en mayúsculas
+        // email = "alejandro@gmail.com"; ya no es posible porque con el final la variable se vuelve constante. Una buena practica es poner todas las constantes en mayúsculas*
         System.out.println(EMAIL);
     }
 }

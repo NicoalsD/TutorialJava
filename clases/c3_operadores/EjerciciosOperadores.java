@@ -1,3 +1,4 @@
+package clases.c3_operadores;
 public class EjerciciosOperadores {
     public static void main(String[] args) {
         // 1. Crea una variable con el resultado de cada operación aritmética.

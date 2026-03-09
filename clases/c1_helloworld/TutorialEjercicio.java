@@ -1,3 +1,4 @@
+package clases.c1_helloworld;
 import java.util.Scanner;
 
 public class TutorialEjercicio {

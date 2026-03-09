@@ -1,3 +1,4 @@
+package clases.c2_principiante;
 public class TipoDeDato {
     public static void main(String[] args) {
         // Tipo de datos primitivos

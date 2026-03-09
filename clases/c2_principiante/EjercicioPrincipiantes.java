@@ -1,3 +1,4 @@
+package clases.c2_principiante;
 public class EjercicioPrincipiantes {
     public static void main(String[] args) {
         // 1. Declara una variable de tipo String y asígnale tu nombre.
