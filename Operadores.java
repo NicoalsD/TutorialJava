@@ -84,7 +84,7 @@ public class Operadores {
 
         // O (OR)
 
-        // |
+        // ||
         System.out.println(4 == 4 || 5 > 10); // true
         
         // NEGACIÓN (NOT)
