@@ -1,8 +1,8 @@
 package clases.c8_oop.clases_ejercicios;
 
 public class Book {
-    public String titulo;
-    public String autor;
+    String titulo;
+    String autor;
 
     public Book(String titulo, String autor) {
         this.titulo = titulo;
