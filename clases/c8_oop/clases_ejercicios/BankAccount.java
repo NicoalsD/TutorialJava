@@ -1,4 +1,4 @@
-package clases.c8_clases;
+package clases.c8_oop.clases_ejercicios;
 
 // 6. Crea una clase BankAccount con atributo balance y un método deposit() que sume el saldo.
 public class BankAccount {

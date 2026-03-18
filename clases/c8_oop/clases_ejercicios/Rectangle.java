@@ -1,4 +1,4 @@
-package clases.c8_clases;
+package clases.c8_oop.clases_ejercicios;
 
 // 7. Crea una clase Rectangle con métodos para calcular el área y el perímetro.
 public class Rectangle {

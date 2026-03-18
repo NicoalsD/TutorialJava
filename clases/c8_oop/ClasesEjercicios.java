@@ -1,6 +1,16 @@
-package clases.c8_clases;
+package clases.c8_oop;
 
 import java.util.ArrayList;
+
+import clases.c8_oop.clases_ejercicios.BankAccount;
+import clases.c8_oop.clases_ejercicios.Book;
+import clases.c8_oop.clases_ejercicios.Car;
+import clases.c8_oop.clases_ejercicios.Dog;
+import clases.c8_oop.clases_ejercicios.Person;
+import clases.c8_oop.clases_ejercicios.Product;
+import clases.c8_oop.clases_ejercicios.Rectangle;
+import clases.c8_oop.clases_ejercicios.Student;
+import clases.c8_oop.clases_ejercicios.Worker;
 
 public class ClasesEjercicios {
     public static void main(String[] args) {

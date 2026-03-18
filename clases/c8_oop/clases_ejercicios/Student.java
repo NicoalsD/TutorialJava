@@ -1,4 +1,4 @@
-package clases.c8_clases;
+package clases.c8_oop.clases_ejercicios;
 
 public class Student {
     int score;

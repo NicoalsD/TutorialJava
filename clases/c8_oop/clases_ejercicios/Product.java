@@ -1,4 +1,4 @@
-package clases.c8_clases;
+package clases.c8_oop.clases_ejercicios;
 
 // 10. Crea una clase Product y un método que aplique un descuento sobre su precio.
 public class Product {
